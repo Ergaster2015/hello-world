@@ -31,6 +31,7 @@ class B:public A{
 
 int main(){
    B d;
+   B dd;
    A* p = &d;
    B* q = &d;
    int aa = 1;
