@@ -43,6 +43,7 @@ int main(){
    q->A::f(aa);
    q->A::g(aa);
    q->A::h(bb);
+   cout<<"dq"<<endl;
    return 0;
 
 }
