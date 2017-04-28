@@ -43,7 +43,7 @@ int main(){
    q->A::f(aa);
    q->A::g(aa);
    q->A::h(bb);
-   cout<<"dq"<<endl;
+   cout<<"confil fixed"<<endl;
    return 0;
 
 }
